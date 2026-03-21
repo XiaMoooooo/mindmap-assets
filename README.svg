@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="mindmap" class="markmap mindmap" viewBox="266.17572021484375 -21.000003814697266 1388.237060546875 1122.404541015625" width="1389" height="1123" xmlns="http://www.w3.org/2000/svg"><style>.markmap {
+  --markmap-max-width: 9999px;
+  --markmap-a-color: #0097e6;
+  --markmap-a-hover-color: #00a8ff;
+  --markmap-code-bg: #f0f0f0;
+  --markmap-code-color: #555;
+  --markmap-highlight-bg: #ffeaa7;
+  --markmap-table-border: 1px solid currentColor;
+  --markmap-font: 300 16px/20px sans-serif;
+  --markmap-circle-open-bg: #fff;
+  --markmap-text-color: #333;
+  --markmap-highlight-node-bg: #ff02;
+
+  font: var(--markmap-font);
+  color: var(--markmap-text-color);
+}
+
+  .markmap-link {
+    fill: none;
+  }
+
+  .markmap-node &gt; circle {
+      cursor: pointer;
+    }
+
+  .markmap-foreign {
+    display: inline-block;
+  }
+
+  .markmap-foreign p {
+      margin: 0;
+    }
+
+  .markmap-foreign a {
+      color: var(--markmap-a-color);
+    }
+
+  .markmap-foreign a:hover {
+        color: var(--markmap-a-hover-color);
+      }
+
+  .markmap-foreign code {
+      padding: 0.25em;
+      font-size: calc(1em - 2px);
+      color: var(--markmap-code-color);
+      background-color: var(--markmap-code-bg);
+      border-radius: 2px;
+    }
+
+  .markmap-foreign pre {
+      margin: 0;
+    }
+
+  .markmap-foreign pre &gt; code {
+        display: block;
+      }
+
+  .markmap-foreign del {
+      text-decoration: line-through;
+    }
+
+  .markmap-foreign em {
+      font-style: italic;
+    }
+
+  .markmap-foreign strong {
+      font-weight: bold;
+    }
+
+  .markmap-foreign mark {
+      background: var(--markmap-highlight-bg);
+    }
+
+  .markmap-foreign table,
+    .markmap-foreign th,
+    .markmap-foreign td {
+      border-collapse: collapse;
+      border: var(--markmap-table-border);
+    }
+
+  .markmap-foreign img {
+      display: inline-block;
+    }
+
+  .markmap-foreign svg {
+      fill: currentColor;
+    }
+
+  .markmap-foreign &gt; div {
+      width: var(--markmap-max-width);
+      text-align: left;
+    }
+
+  .markmap-foreign &gt; div &gt; div {
+        display: inline-block;
+      }
+
+  .markmap-highlight rect {
+    fill: var(--markmap-highlight-node-bg);
+  }
+
+.markmap-dark .markmap {
+  --markmap-code-bg: #1a1b26;
+  --markmap-code-color: #ddd;
+  --markmap-circle-open-bg: #444;
+  --markmap-text-color: #eee;
+}
+</style><g transform="translate(314.764168190128,543.6594257447038) scale(0.5884503710076352)"><path class="markmap-link" data-depth="3" data-path="1.2.3" d="M379,-791.187C419,-791.187,419,-857.312,459,-857.312" stroke-width="1.375" stroke="rgb(44, 160, 44)"></path><path class="markmap-link" data-depth="3" data-path="1.2.4" d="M379,-791.187C419,-791.187,419,-830.937,459,-830.937" stroke-width="1.375" stroke="rgb(214, 39, 40)"></path><path class="markmap-link" data-depth="3" data-path="1.2.5" d="M379,-791.187C419,-791.187,419,-804.562,459,-804.562" stroke-width="1.375" stroke="rgb(148, 103, 189)"></path><path class="markmap-link" data-depth="3" data-path="1.2.6" d="M379,-791.187C419,-791.187,419,-778.187,459,-778.187" stroke-width="1.375" stroke="rgb(140, 86, 75)"></path><path class="markmap-link" data-depth="3" data-path="1.2.7" d="M379,-791.187C419,-791.187,419,-751.812,459,-751.812" stroke-width="1.375" stroke="rgb(227, 119, 194)"></path><path class="markmap-link" data-depth="3" data-path="1.2.8" d="M379,-791.187C419,-791.187,419,-725.437,459,-725.437" stroke-width="1.375" stroke="rgb(127, 127, 127)"></path><path class="markmap-link" data-depth="3" data-path="1.9.10" d="M415,-520.375C455,-520.375,455,-347.062,495,-347.062" stroke-width="1.375" stroke="rgb(23, 190, 207)"></path><path class="markmap-link" data-depth="3" data-path="1.11.12" d="M403,-222C443,-222,443,-128.687,483,-128.687" stroke-width="1.375" stroke="rgb(255, 127, 14)"></path><path class="markmap-link" data-depth="4" data-path="1.13.15.16" d="M738,-64.312C778,-64.312,778,-31.406,818,-31.406" stroke-width="1.1875" stroke="rgb(140, 86, 75)"></path><path class="markmap-link" data-depth="3" data-path="1.13.14" d="M487,-45.219C527,-45.219,527,-90.687,567,-90.687" stroke-width="1.375" stroke="rgb(214, 39, 40)"></path><path class="markmap-link" data-depth="3" data-path="1.13.15" d="M487,-45.219C527,-45.219,527,-64.312,567,-64.312" stroke-width="1.375" stroke="rgb(148, 103, 189)"></path><path class="markmap-link" data-depth="3" data-path="1.13.17" d="M487,-45.219C527,-45.219,527,-0.125,567,-0.125" stroke-width="1.375" stroke="rgb(227, 119, 194)"></path><path class="markmap-link" data-depth="3" data-path="1.18.19" d="M462,64.938C502,64.938,502,98.25,542,98.25" stroke-width="1.375" stroke="rgb(188, 189, 34)"></path><path class="markmap-link" data-depth="3" data-path="1.20.21" d="M505,310C545,310,545,276.625,585,276.625" stroke-width="1.375" stroke="rgb(31, 119, 180)"></path><path class="markmap-link" data-depth="3" data-path="1.20.22" d="M505,310C545,310,545,490,585,490" stroke-width="1.375" stroke="rgb(255, 127, 14)"></path><path class="markmap-link" data-depth="4" data-path="1.23.25.26" d="M701,581.938C741,581.938,741,554.656,781,554.656" stroke-width="1.1875" stroke="rgb(140, 86, 75)"></path><path class="markmap-link" data-depth="4" data-path="1.23.25.27" d="M701,581.938C741,581.938,741,582.844,781,582.844" stroke-width="1.1875" stroke="rgb(227, 119, 194)"></path><path class="markmap-link" data-depth="4" data-path="1.23.25.28" d="M701,581.938C741,581.938,741,611.031,781,611.031" stroke-width="1.1875" stroke="rgb(127, 127, 127)"></path><path class="markmap-link" data-depth="4" data-path="1.23.29.30" d="M634,669.5C674,669.5,674,642.219,714,642.219" stroke-width="1.1875" stroke="rgb(23, 190, 207)"></path><path class="markmap-link" data-depth="4" data-path="1.23.29.31" d="M634,669.5C674,669.5,674,670.406,714,670.406" stroke-width="1.1875" stroke="rgb(31, 119, 180)"></path><path class="markmap-link" data-depth="4" data-path="1.23.29.32" d="M634,669.5C674,669.5,674,696.594,714,696.594" stroke-width="1.1875" stroke="rgb(255, 127, 14)"></path><path class="markmap-link" data-depth="3" data-path="1.23.24" d="M427,624.813C467,624.813,467,521.375,507,521.375" stroke-width="1.375" stroke="rgb(214, 39, 40)"></path><path class="markmap-link" data-depth="3" data-path="1.23.25" d="M427,624.813C467,624.813,467,581.938,507,581.938" stroke-width="1.375" stroke="rgb(148, 103, 189)"></path><path class="markmap-link" data-depth="3" data-path="1.23.29" d="M427,624.813C467,624.813,467,669.5,507,669.5" stroke-width="1.375" stroke="rgb(188, 189, 34)"></path><path class="markmap-link" data-depth="3" data-path="1.23.33" d="M427,624.813C467,624.813,467,698.688,507,698.688" stroke-width="1.375" stroke="rgb(44, 160, 44)"></path><path class="markmap-link" data-depth="3" data-path="1.23.34" d="M427,624.813C467,624.813,467,727.875,507,727.875" stroke-width="1.375" stroke="rgb(214, 39, 40)"></path><path class="markmap-link" data-depth="3" data-path="1.35.36" d="M427,812.938C467,812.938,467,866.25,507,866.25" stroke-width="1.375" stroke="rgb(140, 86, 75)"></path><path class="markmap-link" data-depth="2" data-path="1.2" d="M259,11.25C299,11.25,299,-791.187,339,-791.187" stroke-width="1.75" stroke="rgb(255, 127, 14)"></path><path class="markmap-link" data-depth="2" data-path="1.9" d="M259,11.25C299,11.25,299,-520.375,339,-520.375" stroke-width="1.75" stroke="rgb(188, 189, 34)"></path><path class="markmap-link" data-depth="2" data-path="1.11" d="M259,11.25C299,11.25,299,-222,339,-222" stroke-width="1.75" stroke="rgb(31, 119, 180)"></path><path class="markmap-link" data-depth="2" data-path="1.13" d="M259,11.25C299,11.25,299,-45.219,339,-45.219" stroke-width="1.75" stroke="rgb(44, 160, 44)"></path><path class="markmap-link" data-depth="2" data-path="1.18" d="M259,11.25C299,11.25,299,64.938,339,64.938" stroke-width="1.75" stroke="rgb(127, 127, 127)"></path><path class="markmap-link" data-depth="2" data-path="1.20" d="M259,11.25C299,11.25,299,310,339,310" stroke-width="1.75" stroke="rgb(23, 190, 207)"></path><path class="markmap-link" data-depth="2" data-path="1.23" d="M259,11.25C299,11.25,299,624.813,339,624.813" stroke-width="1.75" stroke="rgb(44, 160, 44)"></path><path class="markmap-link" data-depth="2" data-path="1.35" d="M259,11.25C299,11.25,299,812.938,339,812.938" stroke-width="1.75" stroke="rgb(148, 103, 189)"></path><g class="markmap-highlight"></g><g data-depth="3" data-path="1.2.3" class="markmap-node" transform="translate(459, -878)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="78" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="60" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%9E%B6%E6%9E%84">工作流架构</a></div></div></foreignObject></g><g data-depth="3" data-path="1.2.4" class="markmap-node" transform="translate(459, -851.625)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="66" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="48" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84">文件结构</a></div></div></foreignObject></g><g data-depth="3" data-path="1.2.5" class="markmap-node" transform="translate(459, -825.25)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="150" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="132" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E5%89%8D%E7%BD%AE%E6%93%8D%E4%BD%9C%E4%B8%80%E6%AC%A1%E6%80%A7%E9%85%8D%E7%BD%AE">前置操作（一次性配置）</a></div></div></foreignObject></g><g data-depth="3" data-path="1.2.6" class="markmap-node" transform="translate(459, -798.875)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="125" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="107" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml"><a href="#secrets-%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E">Secrets 配置说明</a></div></div></foreignObject></g><g data-depth="3" data-path="1.2.7" class="markmap-node" transform="translate(459, -772.5)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="168" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="150" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml"><a href="#markdown-%E7%AC%94%E8%AE%B0%E6%A0%BC%E5%BC%8F%E8%A7%84%E8%8C%83">Markdown 笔记格式规范</a></div></div></foreignObject></g><g data-depth="3" data-path="1.2.8" class="markmap-node" transform="translate(459, -746.125)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="90" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="72" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5">常见问题排查</a></div></div></foreignObject></g><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(339, -812.0625)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="42" y1="20.875" y2="20.875"></line><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="40" cy="20.875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="24" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">目录</div></div></foreignObject></g><g data-depth="3" data-path="1.9.10" class="markmap-node" transform="translate(495, -714.75)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="387" y1="367.6875" y2="367.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="369" height="367"><div><div xmlns="http://www.w3.org/1999/xhtml"><pre data-lines="19,39"><code data-lines="19,39">push .md 文件到 main 分支
+        │
+        ▼
+┌─────────────────────────────────────────┐
+│  GitHub Actions: mindmap-sync.yml       │
+│                                         │
+│  <span class="hljs-keyword">Step</span> <span class="hljs-number">1</span>  git diff 检测变更的 .md 文件   │
+│  <span class="hljs-keyword">Step</span> <span class="hljs-number">2</span>  markmap-cli 渲染 → HTML        │
+│  <span class="hljs-keyword">Step</span> <span class="hljs-number">3</span>  Puppeteer 提取 SVG 元素        │
+│  <span class="hljs-keyword">Step</span> <span class="hljs-number">4</span>  SVG 推送到公共仓库             │
+│          mindmap-assets（一次 commit）  │
+│  <span class="hljs-keyword">Step</span> <span class="hljs-number">5</span>  sync_to_notion.py              │
+│          ├─ 页面不存在 → 新建页面       │
+│          │   image <span class="hljs-keyword">block</span> + divider      │
+│          └─ 页面已存在 → 仅更新         │
+│              第一个 image <span class="hljs-keyword">block</span> URL     │
+│              手写笔记文字完全保留 ✓    │
+└─────────────────────────────────────────┘
+</code></pre></div></div></foreignObject></g><g data-depth="2" data-path="1.9" class="markmap-node" transform="translate(339, -541.25)"><line stroke="#bcbd22" stroke-width="1.75" x1="-1" x2="78" y1="20.875" y2="20.875"></line><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="76" cy="20.875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="60" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">工作流架构</div></div></foreignObject></g><g data-depth="3" data-path="1.11.12" class="markmap-node" transform="translate(483, -336.375)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="505" y1="207.6875" y2="207.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="487" height="207"><div><div xmlns="http://www.w3.org/1999/xhtml"><pre data-lines="47,59"><code data-lines="47,59">.
+├── .github<span class="hljs-symbol">/</span>
+│   └── workflows<span class="hljs-symbol">/</span>
+│       └── mindmap-sync.yml      <span class="hljs-comment"># GitHub Actions 工作流入口</span>
+├── scripts<span class="hljs-symbol">/</span>
+│   ├── package.json              <span class="hljs-comment"># Node.js 依赖（Puppeteer）</span>
+│   ├── export_svg.js             <span class="hljs-comment"># 无头 Chrome 渲染并提取 SVG</span>
+│   └── sync_to_notion.py         <span class="hljs-comment"># Notion 精准同步脚本</span>
+├── README.md                     <span class="hljs-comment"># 本文件</span>
+└── <span class="hljs-operator">*</span>.md                          <span class="hljs-comment"># 投资学习笔记（markmap 格式）</span>
+</code></pre></div></div></foreignObject></g><g data-depth="2" data-path="1.11" class="markmap-node" transform="translate(339, -242.875)"><line stroke="#1f77b4" stroke-width="1.75" x1="-1" x2="66" y1="20.875" y2="20.875"></line><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="64" cy="20.875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="48" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">文件结构</div></div></foreignObject></g><g data-depth="3" data-path="1.13.14" class="markmap-node" transform="translate(567, -111.375)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="132" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="114" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">1. 创建公共图床仓库</div></div></foreignObject></g><g data-depth="4" data-path="1.13.15.16" class="markmap-node" transform="translate(818, -118)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="1377" y1="86.59375" y2="86.59375"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1359" height="86"><div><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="72,77">
+<thead data-lines="72,73">
+<tr data-lines="72,73">
+<th>Secret 名称</th>
+<th>获取方式</th>
+</tr>
+</thead>
+<tbody data-lines="74,77">
+<tr data-lines="74,75">
+<td><code>GH_PAT</code></td>
+<td>GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens → 创建新 Token，选择 <code>mindmap-assets</code> 仓库，授予 <strong>Contents: Read and write</strong> 权限</td>
+</tr>
+<tr data-lines="75,76">
+<td><code>NOTION_TOKEN</code></td>
+<td><a href="https://www.notion.so/my-integrations">notion.so/my-integrations</a> → New integration → 复制 <strong>Internal Integration Secret</strong></td>
+</tr>
+<tr data-lines="76,77">
+<td><code>NOTION_PARENT_ID</code></td>
+<td>打开 Notion 目标父页面 → 点击右上角 <code>Share</code> 复制链接 → 取 URL 末尾的 32 位 hex 字符串（含或不含连字符均可）</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.13.15" class="markmap-node" transform="translate(567, -85)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="173" y1="20.6875" y2="20.6875"></line><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="171" cy="20.6875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="155" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">2. 配置 GitHub Secrets</div></div></foreignObject></g><g data-depth="3" data-path="1.13.17" class="markmap-node" transform="translate(567, -20.8125)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="191" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="173" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">3. 授权 Notion Integration</div></div></foreignObject></g><g data-depth="2" data-path="1.13" class="markmap-node" transform="translate(339, -66.09375)"><line stroke="#2ca02c" stroke-width="1.75" x1="-1" x2="150" y1="20.875" y2="20.875"></line><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="148" cy="20.875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="132" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">前置操作（一次性配置）</div></div></foreignObject></g><g data-depth="3" data-path="1.18.19" class="markmap-node" transform="translate(542, 10.5625)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="505" y1="87.6875" y2="87.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="487" height="87"><div><div xmlns="http://www.w3.org/1999/xhtml"><pre data-lines="88,94"><code data-lines="88,94">私有仓库 Secrets:
+  GH_PAT            ──► 允许 <span class="hljs-keyword">Action</span> 向 mindmap-assets 仓库推送文件
+  NOTION_TOKEN       ──► Notion API 鉴权
+  NOTION_PARENT_ID   ──► 指定在哪个父页面下创建/更新子页面
+</code></pre></div></div></foreignObject></g><g data-depth="2" data-path="1.18" class="markmap-node" transform="translate(339, 44.0625)"><line stroke="#7f7f7f" stroke-width="1.75" x1="-1" x2="125" y1="20.875" y2="20.875"></line><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="123" cy="20.875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="107" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">Secrets 配置说明</div></div></foreignObject></g><g data-depth="3" data-path="1.20.21" class="markmap-node" transform="translate(585, 108.9375)"><line stroke="#1f77b4" stroke-width="1.375" x1="-1" x2="151" y1="167.6875" y2="167.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="133" height="167"><div><div xmlns="http://www.w3.org/1999/xhtml"><pre data-lines="101,111"><code class="language-markdown"><span class="hljs-section"># 笔记标题（思维导图根节点）</span>
+
+<span class="hljs-bullet">-</span> 一级主题
+<span class="hljs-bullet">  -</span> 二级子项
+<span class="hljs-bullet">    -</span> 三级细节
+<span class="hljs-bullet">  -</span> 另一个二级子项
+<span class="hljs-bullet">-</span> 另一个一级主题
+<span class="hljs-bullet">  -</span> ...
+</code></pre></div></div></foreignObject></g><g data-depth="3" data-path="1.20.22" class="markmap-node" transform="translate(585, 282.3125)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="430" y1="207.6875" y2="207.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="412" height="207"><div><div xmlns="http://www.w3.org/1999/xhtml"><pre data-lines="114,126"><code class="language-yaml"><span class="hljs-meta">---</span>
+<span class="hljs-attr">markmap:</span>
+  <span class="hljs-attr">colorFreezeLevel:</span> <span class="hljs-number">2</span>      <span class="hljs-comment"># 固定前 2 层颜色，子节点继承父节点色</span>
+  <span class="hljs-attr">maxWidth:</span> <span class="hljs-number">300</span>            <span class="hljs-comment"># 节点最大宽度（px）</span>
+  <span class="hljs-attr">initialExpandLevel:</span> <span class="hljs-number">-1</span>  <span class="hljs-comment"># -1 表示默认展开所有层级</span>
+  <span class="hljs-attr">duration:</span> <span class="hljs-number">500</span>            <span class="hljs-comment"># 展开动画时长（ms）</span>
+<span class="hljs-meta">---
+</span>
+<span class="hljs-comment"># 笔记标题</span>
+<span class="hljs-string">...</span>
+</code></pre></div></div></foreignObject></g><g data-depth="2" data-path="1.20" class="markmap-node" transform="translate(339, 289.125)"><line stroke="#17becf" stroke-width="1.75" x1="-1" x2="168" y1="20.875" y2="20.875"></line><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="166" cy="20.875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="150" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">Markdown 笔记格式规范</div></div></foreignObject></g><g data-depth="3" data-path="1.23.24" class="markmap-node" transform="translate(507, 500.6875)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="222" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="204" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">Action 触发了但没有处理 .md 文件</div></div></foreignObject></g><g data-depth="4" data-path="1.23.25.26" class="markmap-node" transform="translate(781, 532.0625)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="365" y1="22.59375" y2="22.59375"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="347" height="22"><div><div xmlns="http://www.w3.org/1999/xhtml">确认 <code>scripts/npm install</code> 成功安装了 <code>puppeteer</code></div></div></foreignObject></g><g data-depth="4" data-path="1.23.25.27" class="markmap-node" transform="translate(781, 560.25)"><line stroke="#e377c2" stroke-width="1.1875" x1="-1" x2="398" y1="22.59375" y2="22.59375"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="380" height="22"><div><div xmlns="http://www.w3.org/1999/xhtml">Ubuntu runner 已通过 <code>--no-sandbox</code> 参数规避沙盒权限问题</div></div></foreignObject></g><g data-depth="4" data-path="1.23.25.28" class="markmap-node" transform="translate(781, 588.4375)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="556" y1="22.59375" y2="22.59375"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="538" height="22"><div><div xmlns="http://www.w3.org/1999/xhtml">如果 markmap 渲染超时，可将 <code>export_svg.js</code> 中的 <code>timeout</code> 值从 <code>20000</code> 适当增大</div></div></foreignObject></g><g data-depth="3" data-path="1.23.25" class="markmap-node" transform="translate(507, 561.25)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="196" y1="20.6875" y2="20.6875"></line><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="194" cy="20.6875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="178" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">Puppeteer 报错 / SVG 为空</div></div></foreignObject></g><g data-depth="4" data-path="1.23.29.30" class="markmap-node" transform="translate(714, 621.625)"><line stroke="#17becf" stroke-width="1.1875" x1="-1" x2="332" y1="20.59375" y2="20.59375"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="314" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">确认 Integration 已在目标父页面授权（见前置步骤 3）</div></div></foreignObject></g><g data-depth="4" data-path="1.23.29.31" class="markmap-node" transform="translate(714, 647.8125)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="428" y1="22.59375" y2="22.59375"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="410" height="22"><div><div xmlns="http://www.w3.org/1999/xhtml">检查 <code>NOTION_PARENT_ID</code> 是否正确（可直接粘贴带连字符的 UUID）</div></div></foreignObject></g><g data-depth="4" data-path="1.23.29.32" class="markmap-node" transform="translate(714, 676)"><line stroke="#ff7f0e" stroke-width="1.1875" x1="-1" x2="415" y1="20.59375" y2="20.59375"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="397" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">查看 Action 日志中 Python 脚本的输出，确认找到了正确的子页面 ID</div></div></foreignObject></g><g data-depth="3" data-path="1.23.29" class="markmap-node" transform="translate(507, 648.8125)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="129" y1="20.6875" y2="20.6875"></line><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="127" cy="20.6875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="111" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">Notion 页面未更新</div></div></foreignObject></g><g data-depth="3" data-path="1.23.33" class="markmap-node" transform="translate(507, 678)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="126" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="108" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">手写笔记被覆盖了？</div></div></foreignObject></g><g data-depth="3" data-path="1.23.34" class="markmap-node" transform="translate(507, 707.1875)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="175" y1="20.6875" y2="20.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="157" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">中文文件名 raw URL 404</div></div></foreignObject></g><g data-depth="2" data-path="1.23" class="markmap-node" transform="translate(339, 603.9375)"><line stroke="#2ca02c" stroke-width="1.75" x1="-1" x2="90" y1="20.875" y2="20.875"></line><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="88" cy="20.875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="72" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">常见问题排查</div></div></foreignObject></g><g data-depth="3" data-path="1.35.36" class="markmap-node" transform="translate(507, 738.5625)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="240" y1="127.6875" y2="127.6875"></line><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="222" height="127"><div><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="160,167">
+<thead data-lines="160,161">
+<tr data-lines="160,161">
+<th>工具</th>
+<th>版本</th>
+</tr>
+</thead>
+<tbody data-lines="162,167">
+<tr data-lines="162,163">
+<td>Node.js</td>
+<td>20 LTS</td>
+</tr>
+<tr data-lines="163,164">
+<td>markmap-cli</td>
+<td>latest (npm global)</td>
+</tr>
+<tr data-lines="164,165">
+<td>puppeteer</td>
+<td>^22.8.2</td>
+</tr>
+<tr data-lines="165,166">
+<td>Python</td>
+<td>3.11</td>
+</tr>
+<tr data-lines="166,167">
+<td>notion-client</td>
+<td>latest (pip)</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.35" class="markmap-node" transform="translate(339, 792.0625)"><line stroke="#9467bd" stroke-width="1.75" x1="-1" x2="90" y1="20.875" y2="20.875"></line><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="88" cy="20.875"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="72" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">依赖版本参考</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0, -10)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="261" y1="21.25" y2="21.25"></line><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="259" cy="21.25"></circle><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="243" height="20"><div><div xmlns="http://www.w3.org/1999/xhtml">📚 投资学习笔记 · 自动化思维导图同步系统</div></div></foreignObject></g></g></svg>
